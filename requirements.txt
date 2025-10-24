@@ -1,1 +1,2 @@
 streamlit
+reportlab>=3.6.12

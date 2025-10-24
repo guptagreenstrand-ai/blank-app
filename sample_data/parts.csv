@@ -1,0 +1,4 @@
+key,name,material,length_mm,width_mm,thickness_mm,quantity_total,allow_rotation_length_width,allow_rotation_width_thickness,allow_rotation_length_thickness,enforce_grain_along_length,priority
+"plank_1000x90x38","Plank","Pine",1000,90,38,30,True,False,False,True,2
+"stringer_1200x90x38","Stringer","Pine",1200,90,38,18,True,False,False,True,1
+"block_90x90x90","Block","Pine",90,90,90,40,False,True,True,False,0

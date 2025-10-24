@@ -1,0 +1,3 @@
+name,length_mm,width_mm,thickness_mm,quantity,cost_per_unit,material
+"KD Pine 2400x100x38",2400,100,38,10,12.5,Pine
+"KD Pine 3000x120x45",3000,120,45,6,16.0,Pine
